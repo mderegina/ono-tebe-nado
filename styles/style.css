@@ -60,63 +60,6 @@
 .address__item {
   text-decoration: none;
 }
-/* 
-.header {
-  display: flex;
-  max-width: 100%;
-  max-height: 100%;
-  color: #000;
-  font: normal 400 18px/1.20 Raleway, sans-serif;
-  justify-content: space-between;
-  align-content: center;
-  padding: 95px 50px 92px 50px;
-}
-
-.header__menu {
-  display: flex;
-  align-content: center;
-}
-
-.header__menu-list {
-  display: flex;
-  flex-direction: row;
-  gap: 32px;
-  list-style: circle;
-  align-items: center;
-  text-underline-position: under;
-}
-
-.header__menu-item:first-child {
-  list-style: none;
-}
-
-.header__link_active {
-  text-decoration: none;
-  pointer-events: none;
-}
-
-.header__logo-image {
-  display: flex;
-  width: 148px;
-  height: 105px;
-  object-fit: contain;
-  object-position: left top;
-  margin-left: -130px;
-}
-  
-.address {
-  display: flex;
-  text-decoration: underline;
-  text-underline-position: under;
-  font: normal 400 18px/1.30 Raleway, sans-serif;
-  text-underline-position: under;
-  padding-top: 2px;
-  padding-right: 2px;
-}
-
-.address:nth-child(3) {
-  text-decoration: none;
-} */
 
 .cover {
   position: relative;
@@ -241,13 +184,11 @@
   max-height: 100%;
   padding: 50px 40px;
   text-decoration-line: none;
-  align-items: space-between;
   justify-content: space-between;
 }
 
 .card-link {
   display: flex;
-  align-items: space-between
 }
 
 .card_type_film { 
@@ -346,7 +287,7 @@ footer {
   text-decoration-line: none;
   padding: 180px 50px 90px 50px;
   color: #000;
-  font: normal 400 18px/ Raleway, sans-serif;
+  font: normal 400 18px/1.35 Raleway, sans-serif;
   justify-content: space-between;
 }
 
