@@ -91,12 +91,12 @@
   text-transform: uppercase;
   gap: 20px;
   padding-bottom: 135px;
+  letter-spacing: 30px;
 }
 
 .aligned-text {
   text-align: start;
   z-index: 2;
-  letter-spacing: 30px;
 }
 
 .letter-spacing-extended {
@@ -308,8 +308,8 @@ footer {
 }
 
 .footer__social-icon {
-  max-width: 48px;
-  max-height: 48px;
+  width: 48px;
+  height: 48px;
 }
 
 .footer__menu-link {
